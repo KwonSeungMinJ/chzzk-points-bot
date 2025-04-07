@@ -50,13 +50,11 @@ URL 복사 버튼을 누르면 링크가 저장 복사가 되는데 OBS 브라�
 
 로그는 말그대로 로그를 보여줍니다
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
 엑세스 토큰 반자동 프로그램 소개
 
 다운로드 : https://drive.google.com/file/d/1TheBt4XunWqAZGudwWdVIkXGQbfXW9NA/view?usp=sharing
-
-![image](https://github.com/user-attachments/assets/edba3fef-08d1-4ce5-a806-a99e68c1c9a8)
 
 프로그램 사용법 : https://developers.chzzk.naver.com/application
 
@@ -90,6 +88,10 @@ Scope 지정을 완료했다면 저장 후 등록 버튼을 클릭한다.
 
 Scope의 경우 기능 추가 및 변경 시, 해당 기능에 대해 치지직에 권한을 다시 승인받아야 한다.
 
-아이디 비밀번호 넣고 2차 인증으로 사용 하시는 분들은 체크 하고 코드 받기
+그리고 승인 대기중에서 며칠 지나면 승인 됨으로 변경되면 그 때부터 봇 사용이 가능합니다.
 
+![image](https://github.com/user-attachments/assets/edba3fef-08d1-4ce5-a806-a99e68c1c9a8)
 
+굵은 글씨에 있는 정보는 개발자 센터에 있는 데이터를 그대로 넣으면 됩니다.
+
+그리고 네이버 아이디 비밀번호 넣고 2차 인증이 필요한 계정이면 체크 박스에 체크를 하고 코드 받기 하면 인터넷 창이 자동으로 켜지고 기다리면 엑세스 토큰이 발급이 됩니다.
