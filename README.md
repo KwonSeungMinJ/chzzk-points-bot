@@ -50,5 +50,46 @@ URL 복사 버튼을 누르면 링크가 저장 복사가 되는데 OBS 브라�
 
 로그는 말그대로 로그를 보여줍니다
 
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+엑세스 토큰 반자동 프로그램 소개
+
+다운로드 : https://drive.google.com/file/d/1TheBt4XunWqAZGudwWdVIkXGQbfXW9NA/view?usp=sharing
+
+![image](https://github.com/user-attachments/assets/edba3fef-08d1-4ce5-a806-a99e68c1c9a8)
+
+프로그램 사용법 : https://developers.chzzk.naver.com/application
+
+ ![image](https://github.com/user-attachments/assets/bef2af4d-a21d-4b4b-8287-868d153b8d9f)
+
+ 먼저 위 사이트로 이동해서 네이버로 로그인 후 상단의 Application 버튼을 클릭한다.
+
+![image](https://github.com/user-attachments/assets/50817bb4-58eb-41fd-8756-3f61164f7571)
+
+
+이후 애플리케이션 목록 - 애플리케이션 등록 버튼을 클릭한다.
+
+ ![image](https://github.com/user-attachments/assets/2f65dce7-af97-445a-8c76-3300060e71a9)
+![image](https://github.com/user-attachments/assets/08490ae3-e0f4-4975-95e4-4486b1688282)
+
+애플리케이션 ID 및 이름에 'chzzk', '치지직', 'naver', '네이버' 등 공식 서비스명은 포함하면 안된다는 메일이 날아왔다.
+
+공식 서비스명을 포함하지 않도록 앱 이름 수정에 유의해야 한다.
+
+![image](https://github.com/user-attachments/assets/cf4bf493-6efa-445f-b78b-44a12bb87cfd)
+
+개발하고 싶은 기능에 맞춰 API Scope를 지정한다. 그냥 전부 체크해도 무관합니다.
+
+해당 scope 지정의 경우 scope마다 필요로 하는 인증 방식이 다르고, 기능들을 사용하기 위해서는 치지직에서 권한에 대해 승인을 받아야 사용할 수 있다.
+
+Scope 지정을 완료했다면 저장 후 등록 버튼을 클릭한다.
+
+![image](https://github.com/user-attachments/assets/e266e3ff-f261-4598-986f-5a9047e727ab)
+
+등록을 완료하고 애플리케이션에서 Client ID, Secret Key 값을 확인할 수 있고, 애플리케이션 이름, 리디렉션 URL, Scope 정보도 수정해 줄 수 있다.
+
+Scope의 경우 기능 추가 및 변경 시, 해당 기능에 대해 치지직에 권한을 다시 승인받아야 한다.
+
+아이디 비밀번호 넣고 2차 인증으로 사용 하시는 분들은 체크 하고 코드 받기
 
 
