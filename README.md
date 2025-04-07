@@ -64,18 +64,14 @@ URL 복사 버튼을 누르면 링크가 저장 복사가 되는데 OBS 브라�
 
 ![image](https://github.com/user-attachments/assets/50817bb4-58eb-41fd-8756-3f61164f7571)
 
-애플리케이션 ID, 애플리케이션 이름, 로그인 리디렉션 URL을 지정한다.
-
- 
-
-애플리케이션 ID와 이름의 경우 사용자 마음대로 지정해도 되고, 본인처럼 테스트를 위한 경우나 잘 모르겠다면
-
-로그인 리디렉션 URL을 https://localhost:8080으로 지정한다.
-
-
 이후 애플리케이션 목록 - 애플리케이션 등록 버튼을 클릭한다.
 
  ![image](https://github.com/user-attachments/assets/2f65dce7-af97-445a-8c76-3300060e71a9)
+
+ 애플리케이션 ID와 이름의 경우 사용자 마음대로 지정해도 되고, 본인처럼 테스트를 위한 경우나 잘 모르겠다면
+
+로그인 리디렉션 URL을 https://localhost:8080으로 지정한다.
+
 ![image](https://github.com/user-attachments/assets/08490ae3-e0f4-4975-95e4-4486b1688282)
 
 애플리케이션 ID 및 이름에 'chzzk', '치지직', 'naver', '네이버' 등 공식 서비스명은 포함하면 안된다는 메일이 날아왔다.
