@@ -86,11 +86,8 @@ URL 복사 버튼을 누르면 링크가 저장 복사가 되는데 OBS 브라�
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
-## 🪄 엑세스 토큰 반자동 발급 도우미
+## 🪄 엑세스 토큰 발급 방법
 
-다운로드 : https://drive.google.com/file/d/1TheBt4XunWqAZGudwWdVIkXGQbfXW9NA/view?usp=sharing
-
-프로그램 사용법 : https://developers.chzzk.naver.com/application
 
  ![image](https://github.com/user-attachments/assets/bef2af4d-a21d-4b4b-8287-868d153b8d9f)
 
@@ -140,3 +137,4 @@ Scope의 경우 기능 추가 및 변경 시, 해당 기능에 대해 치지직�
 ## 📝 문의
 
 - 💌 **이메일**: `eovldkdlel1@naver.com`
+
